@@ -61,11 +61,11 @@
 
 ### 📊 GitHub Stats
 
-<!-- ⚠️ 아래 두 줄의  github-readme-stats-two-omega-97.vercel.app  를 본인이 셀프호스팅한 Vercel URL로 교체하세요.
-     (셀프호스팅 전에는 이 두 카드가 빈 이미지로 뜹니다. Streak 카드는 정상 작동.) -->
+<!-- jstrieb/github-stats 로 사전 생성한 SVG. USERNAME(JAM-PARK)/브랜치(generated) 경로는 fork 결과에 맞춰 확인.
+     이 SVG들은 GitHub 라이트/다크에 맞춰 자동 전환되며, 비공개 기여를 포함합니다. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats-two-omega-97.vercel.app/api?username=JAM-PARK&show_icons=true&count_private=true&hide_border=true&title_color=2F6B3D&icon_color=40904F&text_color=495057&bg_color=FFFFFF" alt="stats" />
-  <img height="165" src="https://github-readme-stats-two-omega-97.vercel.app/api/top-langs/?username=JAM-PARK&layout=compact&count_private=true&hide_border=true&title_color=2F6B3D&text_color=495057&bg_color=FFFFFF" alt="top langs" />
+  <img width="48%" src="https://raw.githubusercontent.com/JAM-PARK/github-stats/generated/overview.svg" alt="overview" />
+  <img width="48%" src="https://raw.githubusercontent.com/JAM-PARK/github-stats/generated/languages.svg" alt="languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JAM-PARK&hide_border=true&background=FFFFFF&stroke=E9F2EA&ring=2F6B3D&fire=40904F&currStreakNum=343A40&sideNums=343A40&currStreakLabel=2F6B3D&sideLabels=868E96&dates=ADB5BD" alt="streak" />
